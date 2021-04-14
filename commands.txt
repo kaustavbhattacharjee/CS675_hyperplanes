@@ -1,0 +1,18 @@
+python3 project2.py breast_cancer/breast_cancer.data breast_cancer/breast_cancer.trainlabels.0 10 >test_breast_cancer.csv
+
+python3 project2.py ionosphere/ionosphere.data ionosphere/ionosphere.trainlabels.0 10000 >test_ionosphere.csv
+
+python3 project2.py qsar_biodeg/qsar.data qsar_biodeg/qsar.trainlabels.0 10000 >test_qsar.csv
+
+python3 project2.py climate_simulation/climate.data climate_simulation/climate.trainlabels.0 10000 >test_ionosphere.csv
+
+python3 project2.py micromass/micromass.data micromass/micromass.trainlabels.0 10000 >test_ionosphere.csv
+
+python3 project2.py hill_valley/hill_valley.data hill_valley/hill_valley.trainlabels.0 10000 >test_ionosphere.csv
+
+
+
+python3 project2.py test.data test.trainlabels.0 0.001 0.000000001
+
+For checking accuracy:
+python3 accuracy.py test.csv test_true.csv

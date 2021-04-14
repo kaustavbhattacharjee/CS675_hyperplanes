@@ -1,0 +1,79 @@
+Ionosphere split 0:
+Original data: Linear SVC best C = 0.01, best CV error = 0.0%, test error = 11.182399151943462%
+Random hyperplane data:
+For k = 10000
+Linear SVC best C = 0.01, best CV error = 3.325%, test error = 1.389886876528992%
+For k = 1000
+Linear SVC best C = 0.001, best CV error = 3.325%, test error = 0.0%
+For k = 100
+Linear SVC best C = 0.01, best CV error = 3.325%, test error = 4.8975282685512367%
+For k = 10
+Linear SVC best C = 0.01, best CV error = 0.0%, test error = 22.08875422261484%
+
+
+Breast cancer split 0:
+Original data: Linear SVC best C = 1, best CV error = 4.6533234538461533%, test error = 14.543940389605664%
+Random hyperplane data:
+For k = 10000
+Linear SVC best C = 0.01, best CV error = 1.923076923076923%, test error = 17.25057262309368%
+For k = 1000
+Linear SVC best C = 1, best CV error = 5.5769230769230775%, test error = 7.10075289237475%
+For k = 100
+Linear SVC best C = 0.01, best CV error = 9.8199884615384617%, test error = 14.200435729847495%
+For k = 10
+Linear SVC best C = 0.01, best CV error = 9.61615615384617%, test error = 6.17887289760347%
+
+
+Qsar split 0:
+Original data: Linear SVC best C = 0.01, best CV error = 7.473684210526317%, test error = 18.61826697892272%
+Random hyperplane data:
+For k = 10000
+Linear SVC best C = 0.1, best CV error = 7.421051921578949%, test error = 0.234192037470726%
+For k = 1000
+Linear SVC best C = 0.01, best CV error = 11.578947368421053%, test error = 11.4758756065573%
+For k = 100
+Linear SVC best C = 0.001, best CV error = 0.0%, test error = 43.747893162%
+For k = 10
+Linear SVC best C = 0.01, best CV error = 0.0%, test error = 39.95784098355265%
+
+
+Climate split 0:
+Original data: Linear SVC best C = 10, best CV error = 3.043063265306123%, test error = 3.293577981651376%
+Random hyperplane data:
+For k = 10000
+Linear SVC best C = 0.01, best CV error = 4.0408163265306123%, test error = 0.0%
+For k = 1000
+Linear SVC best C = 0.1, best CV error = 2.081632653061225%, test error = 0.0%
+For k = 100
+Linear SVC best C = 0.001, best CV error = 8.1224485306836%, test error = 9.02757798135779817%
+For k = 10
+Linear SVC best C = 0.001, best CV error = 5.153068979591836%, test error = 9.715596779815229%
+
+
+
+Micromass split 0:
+Original data: Linear SVC best C = 0.01, best CV error = 79.80952380212482381%, test error = 2.138571412483399734%
+Random hyperplane data:
+For k = 10000
+Linear SVC best C = 1, best CV error = 42.64285714285713%, test error = 0.0%
+For k = 1000
+Linear SVC best C = 0.001, best CV error = 68.47619047619048%, test error = 1.339972483399734%
+For k = 100
+Linear SVC best C = 10, best CV error = 59.0%, test error = 29.6141903798141%
+For k = 10
+Linear SVC best C = 10, best CV error = 72.0%, test error = 31.8725061959363%
+
+Hill_valley split 0:
+Original data: Linear SVC best C = 0.1, best CV error = 1.820048181818182%, test error = 3.6359918200409%
+Random hyperplane data:
+For k = 10000
+Linear SVC best C = 0.01, best CV error = 39.5537834545455%, test error = 43.353783231083845%
+For k = 1000
+Linear SVC best C = 0.01, best CV error = 39.36363636363637%, test error = 46.21539877155424%
+For k = 100
+Linear SVC best C = 1, best CV error = 56.727272973637273%, test error = 50.920245398773%
+For k = 10
+Linear SVC best C = 10, best CV error = 49.81872727182%, test error = 49.079736363626995%
+
+
+

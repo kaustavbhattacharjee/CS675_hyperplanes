@@ -1,0 +1,32 @@
+Ionosphere split 0:
+Original data: LinearSVC best C = 1, best CV error = 14.4%, test error = 11.1%
+Random hyperplane data: 
+For k = 10000:
+LinearSVC best C = 0.001, best CV error = 5%, test error = 5.5%
+
+Breast cancer split 0:
+Original data: LinearSVC best C = 100, best CV error = 9.6%, test error = 8.6%
+Random hyperplane data: 
+For k = 10000:
+LinearSVC best C = 0.1, best CV error = 4.2%, test error = 6.9%
+
+Qsar split 0:
+Original data: LinearSVC best C = .1, best CV error = 12.8%, test error = 12.3%
+Random hyperplane data: 
+For k = 10000:
+LinearSVC best C = 0.001, best CV error = 15.6%, test error = 9.4%
+
+Climate split 0:
+Original data: LinearSVC best C = 100, best CV error = 4.1%, test error = 5.5%
+Random hyperplane data: 
+For k = 10000:
+LinearSVC best C = 0.001, best CV error = 3.7%, test error = 3.7%
+
+Micromass split 0:
+Original data: LinearSVC best C = .1, best CV error = 10.2%, test error = 6.4%
+Random hyperplane data: 
+For k = 10000:
+LinearSVC best C = .1, best CV error = 4.3%, test error = 2.1%
+
+
+
