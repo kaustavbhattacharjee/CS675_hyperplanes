@@ -11,6 +11,7 @@ Input training labels Y
 Input value of k
 
 For i = 0 to k do:
+
 	a. Create random vector w where each wj is uniformly sampled between -1 and 1.
 	
 	b. Let xj be our training data points. Determine the largest and smallest wTxj
